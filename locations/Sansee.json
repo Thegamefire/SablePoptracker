@@ -1,0 +1,566 @@
+[
+    {
+        "name": "Sansee",
+        "chest_unopened_img": "/images/items/icon.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Cartographer Niaz",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sansee Map",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cartographers Badge (Sansee)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3329,
+                        "y": 2627,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hicaric Ring (Sansee)",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hicaric Ring (Sansee)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3454,
+                        "y": 2144,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Dusk Firefly",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Dusk Firefly",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3030,
+                        "y": 2313,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Pill Fish",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pill Fish",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 4419,
+                        "y": 3352,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Pebble Eye",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pebble Eye",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3732,
+                        "y": 3007,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Dopey Dart",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Dopey Dart",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3050,
+                        "y": 2783,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Bellow Guppy",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Bellow Guppy",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3002,
+                        "y": 2781,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Angler Yolanda",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Basic Wooden Rod",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Angler Bike Engine",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Angler Bike Front",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Angler Bike Wings",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Angler Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Angler Bottoms",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Angler Badge (Sansee) 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Angler Badge (Sansee) 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Angler Badge (Sansee) 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3134,
+                        "y": 3101,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Nomadic Merchant Bobi",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Beetle Bike Booster",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beetle Bike Front",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beetle Bike Wings",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Scrapper Bike Engine",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Scrapper Bike Front",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Scrapper Bike Wings",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3056,
+                        "y": 2341,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hercules Beetle Nest",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Beetle Husk Dye",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hercules Beetle Larvae Husk",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Larval Husk Package",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3195,
+                        "y": 3701,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Shepherd Lia",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Salt Plain Pools Dye",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3005,
+                        "y": 2318,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Sandy Dye",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sandy Dye",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3397,
+                        "y": 2926,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Chum Lair",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chum Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chum Skirt",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chum Queen Tear 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chum Queen Tear 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chum Queen Tear 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chum Queen Tear 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chum Queen Tear 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chum Queen Tear 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chum Mask",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 2604,
+                        "y": 2964,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "The Wind Tower",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Bouldering Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Machinist Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 4149,
+                        "y": 3510,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Innkeeper Ifaa",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Beetle Badge (Sansee)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3035,
+                        "y": 2362,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Machinist Utarii",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Machinist Badge (Sansee)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3061,
+                        "y": 2316,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Scrapper Altyn",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Scrappers Badge (Sansee) (30 Scrap)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Scrappers Badge (Sansee) (60 Scrap)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Scrappers Badge (Sansee) (90 Scrap)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3059,
+                        "y": 2365,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

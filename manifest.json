@@ -1,0 +1,16 @@
+{
+    "name": "Sable Archipelago",
+    "game_name": "Sable",
+    "package_version": "0.0.1",
+    "package_uid": "sable_ap",
+    "author": "Game Fire",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.31.0"
+}

@@ -1,0 +1,1767 @@
+[
+    {
+        "name": "Entertainer's Badge",
+        "type": "consumable",
+        "img": "images/items/EntertainersBadge.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "entertainersbadge"
+    },
+    {
+        "name": "Cartographer's Mask",
+        "type": "toggle",
+        "img": "images/items/CartographersMask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cartographersmask"
+    },
+    {
+        "name": "Pebbel Eye Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pebbleeyeclue"
+    },
+    {
+        "name": "Monumental Stone Top",
+        "type": "toggle",
+        "img": "images/items/MonumentalTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "monumentalstonetop"
+    },
+    {
+        "name": "Whale Ship Mask",
+        "type": "toggle",
+        "img": "images/items/AtomicSuitHelmet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "whaleshipmask"
+    },
+    {
+        "name": "CLUE: Large Feathers",
+        "type": "toggle",
+        "img": "images/items/AtomicHeartFeather.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "clue:largefeathers"
+    },
+    {
+        "name": "Sandwyrm Mask",
+        "type": "toggle",
+        "img": "images/items/SandwormMask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sandwyrmmask"
+    },
+    {
+        "name": "Sandy Dye",
+        "type": "toggle",
+        "img": "images/items/SandyPalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sandydye"
+    },
+    {
+        "name": "Angler Bike Wings",
+        "type": "toggle",
+        "img": "images/items/AnglerBikeWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anglerbikewings"
+    },
+    {
+        "name": "Scrap Metal",
+        "type": "toggle",
+        "img": "images/items/ScrapMetal.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scrapmetal"
+    },
+    {
+        "name": "Whale Ship Top",
+        "type": "toggle",
+        "img": "images/items/AtomicSuitTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "whaleshiptop"
+    },
+    {
+        "name": "Crystal Butterfly",
+        "type": "toggle",
+        "img": "images/items/CrystalButterfly.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crystalbutterfly"
+    },
+    {
+        "name": "Little Kicker Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "littlekickerclue"
+    },
+    {
+        "name": "Magpie Key",
+        "type": "toggle",
+        "img": "images/items/ThievingMagpiesWellDoorKey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magpiekey"
+    },
+    {
+        "name": "Scabby Fish",
+        "type": "toggle",
+        "img": "images/items/ScabbyFish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scabbyfish"
+    },
+    {
+        "name": "Angler Badge",
+        "type": "consumable",
+        "img": "images/items/AnglerBadge.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "anglerbadge"
+    },
+    {
+        "name": "Wash Top",
+        "type": "toggle",
+        "img": "images/items/WhiteDesertSetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "washtop"
+    },
+    {
+        "name": "Scrapper Bike Wings",
+        "type": "toggle",
+        "img": "images/items/ScrapperBikeWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scrapperbikewings"
+    },
+    {
+        "name": "Gliding Bike Front",
+        "type": "toggle",
+        "img": "images/items/GlidingBikeFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glidingbikefront"
+    },
+    {
+        "name": "Atomic Core Dye",
+        "type": "toggle",
+        "img": "images/items/AtomicCorePalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "atomiccoredye"
+    },
+    {
+        "name": "Monumental Stone Bottoms",
+        "type": "toggle",
+        "img": "images/items/MonumentalBottom.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "monumentalstonebottoms"
+    },
+    {
+        "name": "Beetle Bike Booster",
+        "type": "toggle",
+        "img": "images/items/BeetleBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beetlebikebooster"
+    },
+    {
+        "name": "Salt Bike Engine",
+        "type": "toggle",
+        "img": "images/items/SaltBikeBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "saltbikeengine"
+    },
+    {
+        "name": "Orange Winged Beetles",
+        "type": "toggle",
+        "img": "images/items/OrangeWingBeetle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "orangewingedbeetles"
+    },
+    {
+        "name": "Machinist's Mask",
+        "type": "toggle",
+        "img": "images/items/EngineerSetHelmet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "machinistsmask"
+    },
+    {
+        "name": "Sucker Fish Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "suckerfishclue"
+    },
+    {
+        "name": "Machinist Trousers",
+        "type": "toggle",
+        "img": "images/items/EngineerSetTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "machinisttrousers"
+    },
+    {
+        "name": "Nomadic Bike Engine",
+        "type": "toggle",
+        "img": "images/items/NomadicBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nomadicbikeengine"
+    },
+    {
+        "name": "Hicaric Ring Artefact",
+        "type": "consumable",
+        "img": "images/items/AnAncientRaceKeyItem.png",
+        "min_quantity": 0,
+        "max_quantity": 6,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "hicaricringartefact"
+    },
+    {
+        "name": "Machinist Top",
+        "type": "toggle",
+        "img": "images/items/EngineerSetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "machinisttop"
+    },
+    {
+        "name": "Nomadic Bike Front",
+        "type": "toggle",
+        "img": "images/items/NomadicFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nomadicbikefront"
+    },
+    {
+        "name": "Eccrine Guard Top",
+        "type": "toggle",
+        "img": "images/items/GuardOutfitTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eccrineguardtop"
+    },
+    {
+        "name": "Chum Skirt",
+        "type": "toggle",
+        "img": "images/items/ChumBottoms.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chumskirt"
+    },
+    {
+        "name": "Whale Ship Bike Engine",
+        "type": "toggle",
+        "img": "images/items/AtomicWhaleshipBikeBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "whaleshipbikeengine"
+    },
+    {
+        "name": "Hakoan Trousers",
+        "type": "toggle",
+        "img": "images/items/BlackDesertSetTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hakoantrousers"
+    },
+    {
+        "name": "Cartographer's Badge",
+        "type": "consumable",
+        "img": "images/items/CartographersBadge.png",
+        "min_quantity": 0,
+        "max_quantity": 6,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "cartographersbadge"
+    },
+    {
+        "name": "Bellow Guppy",
+        "type": "toggle",
+        "img": "images/items/BellowGuppy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bellowguppy"
+    },
+    {
+        "name": "Hakoan Top",
+        "type": "toggle",
+        "img": "images/items/BlackDesertSetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hakoantop"
+    },
+    {
+        "name": "Flutter Thrust",
+        "type": "toggle",
+        "img": "images/items/FlutterThrust.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flutterthrust"
+    },
+    {
+        "name": "Atomic Shell Dye",
+        "type": "toggle",
+        "img": "images/items/AtomicShellPalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "atomicshelldye"
+    },
+    {
+        "name": "Wash Blue Dye",
+        "type": "toggle",
+        "img": "images/items/WashBluePalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "washbluedye"
+    },
+    {
+        "name": "Sand Ray",
+        "type": "toggle",
+        "img": "images/items/SandRay.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sandray"
+    },
+    {
+        "name": "Gliding Bike Booster",
+        "type": "toggle",
+        "img": "images/items/GlidingBikeBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glidingbikebooster"
+    },
+    {
+        "name": "Speedster Bike Engine",
+        "type": "toggle",
+        "img": "images/items/SpeedsterBikeBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "speedsterbikeengine"
+    },
+    {
+        "name": "Sucker Fish",
+        "type": "toggle",
+        "img": "images/items/SuckerFish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "suckerfish"
+    },
+    {
+        "name": "Bloated Eye Clam",
+        "type": "toggle",
+        "img": "images/items/BloatedEyeClam.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bloatedeyeclam"
+    },
+    {
+        "name": "Narrow Stalk Fig",
+        "type": "toggle",
+        "img": "images/items/Fig.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "narrowstalkfig"
+    },
+    {
+        "name": "Hercules Beetle Larvae Husk",
+        "type": "toggle",
+        "img": "images/items/LarvalHusk.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "herculesbeetlelarvaehusk"
+    },
+    {
+        "name": "Sunshine Butterfly",
+        "type": "toggle",
+        "img": "images/items/SunshineButterfly.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sunshinebutterfly"
+    },
+    {
+        "name": "Delivery Bike Wings",
+        "type": "toggle",
+        "img": "images/items/DeliveryBikeWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "deliverybikewings"
+    },
+    {
+        "name": "Dragonfly Bike Wings",
+        "type": "toggle",
+        "img": "images/items/DragonflyBikeWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dragonflybikewings"
+    },
+    {
+        "name": "Hicaric Ring Bike Booster",
+        "type": "toggle",
+        "img": "images/items/MonumentalRingBikeBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hicaricringbikebooster"
+    },
+    {
+        "name": "Little Kicker",
+        "type": "toggle",
+        "img": "images/items/LittleKicker.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "littlekicker"
+    },
+    {
+        "name": "Atomic Heart Keycard",
+        "type": "toggle",
+        "img": "images/items/AtomicHeartKeycard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "atomicheartkeycard"
+    },
+    {
+        "name": "Repaired Atomic Heart Powercore",
+        "type": "toggle",
+        "img": "images/items/AtomicHeartPowerCoreRepaired.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "repairedatomicheartpowercore"
+    },
+    {
+        "name": "Basic Wooden Rod",
+        "type": "toggle",
+        "img": "images/items/BasicFishingRod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "basicwoodenrod"
+    },
+    {
+        "name": "Pebble Eye",
+        "type": "toggle",
+        "img": "images/items/PebbleEye.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pebbleeye"
+    },
+    {
+        "name": "CLUE: Smashed Glass",
+        "type": "toggle",
+        "img": "images/items/AtomicHeartSmashedGlass.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "clue:smashedglass"
+    },
+    {
+        "name": "Yellow Elephant Beetle",
+        "type": "toggle",
+        "img": "images/items/YellowElephantBeetle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yellowelephantbeetle"
+    },
+    {
+        "name": "Shade Bike Front",
+        "type": "toggle",
+        "img": "images/items/ShadeOfEccriaFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shadebikefront"
+    },
+    {
+        "name": "Chum Mask",
+        "type": "toggle",
+        "img": "images/items/ChumMask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chummask"
+    },
+    {
+        "name": "Oasis Dragonfly",
+        "type": "toggle",
+        "img": "images/items/OasisDragonfly.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "oasisdragonfly"
+    },
+    {
+        "name": "Giraffe Bike Front",
+        "type": "toggle",
+        "img": "images/items/GiraffeFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "giraffebikefront"
+    },
+    {
+        "name": "Hakoan Black Dye",
+        "type": "toggle",
+        "img": "images/items/HakoanBlackPalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hakoanblackdye"
+    },
+    {
+        "name": "Salt Bike Front",
+        "type": "toggle",
+        "img": "images/items/SaltBikeFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "saltbikefront"
+    },
+    {
+        "name": "Delivery Bike Front",
+        "type": "toggle",
+        "img": "images/items/DeliveryBikeFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "deliverybikefront"
+    },
+    {
+        "name": "Chalk Butterfly",
+        "type": "toggle",
+        "img": "images/items/ChalkButterfly.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chalkbutterfly"
+    },
+    {
+        "name": "Angler Bike Front",
+        "type": "toggle",
+        "img": "images/items/AnglerBikeFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anglerbikefront"
+    },
+    {
+        "name": "Shaded Leaf Butterfly",
+        "type": "toggle",
+        "img": "images/items/ShadedLeafButterfly.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shadedleafbutterfly"
+    },
+    {
+        "name": "Flutter Thrust Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flutterthrustclue"
+    },
+    {
+        "name": "Atomic Priesthood Torso",
+        "type": "toggle",
+        "img": "images/items/AtomicPriesthoodSetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "atomicpriesthoodtorso"
+    },
+    {
+        "name": "Scrapper Top",
+        "type": "toggle",
+        "img": "images/items/ScrapperSetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scrappertop"
+    },
+    {
+        "name": "Dragonfly Bike Front",
+        "type": "toggle",
+        "img": "images/items/DragonflyBikeFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dragonflybikefront"
+    },
+    {
+        "name": "Glowing Mushrooms",
+        "type": "toggle",
+        "img": "images/items/GlowingMushrooms.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glowingmushrooms"
+    },
+    {
+        "name": "Hercules Beetle Mask",
+        "type": "toggle",
+        "img": "images/items/HerculesBeetleMask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "herculesbeetlemask"
+    },
+    {
+        "name": "Speedster Bike Wing",
+        "type": "toggle",
+        "img": "images/items/SpeedsterBikeWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "speedsterbikewing"
+    },
+    {
+        "name": "Guard's Mask",
+        "type": "toggle",
+        "img": "images/items/GuardMask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "guardsmask"
+    },
+    {
+        "name": "Scrapper Bottoms",
+        "type": "toggle",
+        "img": "images/items/ScrapperSetTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scrapperbottoms"
+    },
+    {
+        "name": "Beetle Station Top",
+        "type": "toggle",
+        "img": "images/items/BeetleSetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beetlestationtop"
+    },
+    {
+        "name": "Lightning Crystal Bike Wings",
+        "type": "toggle",
+        "img": "images/items/LightningCrystalBikeWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightningcrystalbikewings"
+    },
+    {
+        "name": "Shelled Cup Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shelledcupclue"
+    },
+    {
+        "name": "Shade Of Eccria Mask",
+        "type": "toggle",
+        "img": "images/items/ShadeOfEccriaMask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shadeofeccriamask"
+    },
+    {
+        "name": "Eyries Trousers",
+        "type": "toggle",
+        "img": "images/items/FingerClanSetTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eyriestrousers"
+    },
+    {
+        "name": "Beetle Bike Front",
+        "type": "toggle",
+        "img": "images/items/BeetleFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beetlebikefront"
+    },
+    {
+        "name": "Beetle Station Trousers",
+        "type": "toggle",
+        "img": "images/items/BeetleSetTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beetlestationtrousers"
+    },
+    {
+        "name": "Sodic Waste Map",
+        "type": "toggle",
+        "img": "images/items/SaltPlainsMap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sodicwastemap"
+    },
+    {
+        "name": "Bikers Trousers",
+        "type": "toggle",
+        "img": "images/items/BikerSetTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bikerstrousers"
+    },
+    {
+        "name": "Teacup Angler Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "teacupanglerclue"
+    },
+    {
+        "name": "Scrapper Bike Engine",
+        "type": "toggle",
+        "img": "images/items/ScrapperBikeBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scrapperbikeengine"
+    },
+    {
+        "name": "Cartographer Bike Engine",
+        "type": "toggle",
+        "img": "images/items/CartoBikeBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cartographerbikeengine"
+    },
+    {
+        "name": "Ibexii Mask",
+        "type": "toggle",
+        "img": "images/items/IbexiiSetMask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ibexiimask"
+    },
+    {
+        "name": "Eccrine Guard Trousers",
+        "type": "toggle",
+        "img": "images/items/GuardOutfitBottoms.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eccrineguardtrousers"
+    },
+    {
+        "name": "Shade Bike Wings",
+        "type": "toggle",
+        "img": "images/items/ShadeOfEccriaWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shadebikewings"
+    },
+    {
+        "name": "Dragonfly Bike Engine",
+        "type": "toggle",
+        "img": "images/items/DragonflyBikeBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dragonflybikeengine"
+    },
+    {
+        "name": "Light Koi Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightkoiclue"
+    },
+    {
+        "name": "Delivery Bike Engine",
+        "type": "toggle",
+        "img": "images/items/DeliveryBikeBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "deliverybikeengine"
+    },
+    {
+        "name": "Bouldering Trousers",
+        "type": "toggle",
+        "img": "images/items/ClimbingSetBottoms.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boulderingtrousers"
+    },
+    {
+        "name": "Hicaric Ring Bike Wings",
+        "type": "toggle",
+        "img": "images/items/MonumentalRingBikeWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hicaricringbikewings"
+    },
+    {
+        "name": "Beetle Husk Dye",
+        "type": "toggle",
+        "img": "images/items/BeetleHuskPalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beetlehuskdye"
+    },
+    {
+        "name": "Lightning Crystal",
+        "type": "toggle",
+        "img": "images/items/LightningCrystal.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightningcrystal"
+    },
+    {
+        "name": "Sand Surfer Top",
+        "type": "toggle",
+        "img": "images/items/SurferSetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sandsurfertop"
+    },
+    {
+        "name": "Sansee Map",
+        "type": "toggle",
+        "img": "images/items/EasternDuneMap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sanseemap"
+    },
+    {
+        "name": "Chum Queen Tears",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Chum Queen Tears",
+                "inherit_codes": true,
+                "img": "images/stamina/0Tear.png",
+                "codes": "chumqueentear, chumqueentear_stage1"
+            },
+            {
+                "name": "Chum Queen Tears",
+                "inherit_codes": true,
+                "img": "images/stamina/1Tear.png",
+                "codes": "chumqueentear_stage2"
+            },
+            {
+                "name": "Chum Queen Tears",
+                "inherit_codes": true,
+                "img": "images/stamina/2Tear.png",
+                "codes": "chumqueentear_stage3"
+            },
+            {
+                "name": "Chum Queen Tears",
+                "inherit_codes": true,
+                "img": "images/stamina/3Tear.png",
+                "codes": "chumqueentear_stage3"
+            },
+            {
+                "name": "Chum Queen Tears",
+                "inherit_codes": true,
+                "img": "images/stamina/4Tear.png",
+                "codes": "chumqueentear_stage3"
+            },
+            {
+                "name": "Chum Queen Tears",
+                "inherit_codes": true,
+                "img": "images/stamina/5Tear.png",
+                "codes": "chumqueentear_stage3"
+            },
+            {
+                "name": "Chum Queen Tears",
+                "inherit_codes": true,
+                "img": "images/stamina/6Tear.png",
+                "codes": "chumqueentear_stage3"
+            }
+        ]
+    },
+    {
+        "name": "Salt Bike Wings",
+        "type": "toggle",
+        "img": "images/items/SaltBikeWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "saltbikewings"
+    },
+    {
+        "name": "Climbing Badge",
+        "type": "consumable",
+        "img": "images/items/ClimbingBadge.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "climbingbadge"
+    },
+    {
+        "name": "Oasis Flower",
+        "type": "toggle",
+        "img": "images/items/OasisFlower.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "oasisflower"
+    },
+    {
+        "name": "Trifle Jelly Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "triflejellyclue"
+    },
+    {
+        "name": "Ghost Soul Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ghostsoulclue"
+    },
+    {
+        "name": "Shade Bike Booster",
+        "type": "toggle",
+        "img": "images/items/ShadeOfEccriaBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shadebikebooster"
+    },
+    {
+        "name": "Teacup Angler",
+        "type": "toggle",
+        "img": "images/items/TeacupAngler.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "teacupangler"
+    },
+    {
+        "name": "Hummer Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hummerclue"
+    },
+    {
+        "name": "Shade Trousers",
+        "type": "toggle",
+        "img": "images/items/ShadeSetTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shadetrousers"
+    },
+    {
+        "name": "Whale Ship Bike Front",
+        "type": "toggle",
+        "img": "images/items/AtomicWhaleshipBikeFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "whaleshipbikefront"
+    },
+    {
+        "name": "SUSPECT: Merchant Iria",
+        "type": "toggle",
+        "img": "images/items/AtomicHeartSuspectIria.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "suspect:merchantiria"
+    },
+    {
+        "name": "Broken Atomic Heart Powercore",
+        "type": "toggle",
+        "img": "images/items/AtomicHeartPowerCoreBroken.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brokenatomicheartpowercore"
+    },
+    {
+        "name": "Whale Ship Trousers",
+        "type": "toggle",
+        "img": "images/items/AtomicSuitTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "whaleshiptrousers"
+    },
+    {
+        "name": "Pink Neck Eggs",
+        "type": "toggle",
+        "img": "images/items/PinkNeckEggs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pinkneckeggs"
+    },
+    {
+        "name": "Eyries Bike Booster",
+        "type": "toggle",
+        "img": "images/items/EyriesBikeBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eyriesbikebooster"
+    },
+    {
+        "name": "Sand Ray",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sandrayclue"
+    },
+    {
+        "name": "Biker Top",
+        "type": "toggle",
+        "img": "images/items/BikerSetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bikertop"
+    },
+    {
+        "name": "Lavender Flash Dye",
+        "type": "toggle",
+        "img": "images/items/LavenderFlashPalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lavenderflashdye"
+    },
+    {
+        "name": "Eyries Bike Front",
+        "type": "toggle",
+        "img": "images/items/EyriesBikeFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eyriesbikefront"
+    },
+    {
+        "name": "CLUE: Promissory Note",
+        "type": "toggle",
+        "img": "images/items/AtomicHeartDebtNote.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "clue:promissorynote"
+    },
+    {
+        "name": "Guard's Badge",
+        "type": "consumable",
+        "img": "images/items/GuardsBadge.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "guardsbadge"
+    },
+    {
+        "name": "Shelled Cup",
+        "type": "toggle",
+        "img": "images/items/ShelledCup.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shelledcup"
+    },
+    {
+        "name": "Chum Egg",
+        "type": "consumable",
+        "img": "images/items/Chum.png",
+        "min_quantity": 0,
+        "max_quantity": 165,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "chumegg"
+    },
+    {
+        "name": "Salt Plain Pools Dye",
+        "type": "toggle",
+        "img": "images/items/SaltPlainPoolsPalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "saltplainpoolsdye"
+    },
+    {
+        "name": "Butterfly Top",
+        "type": "toggle",
+        "img": "images/items/DragonFlySetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "butterflytop"
+    },
+    {
+        "name": "Pyrausta Grey Dye",
+        "type": "toggle",
+        "img": "images/items/PyraustaGreyPalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pyraustagreydye"
+    },
+    {
+        "name": "Whale Ship Bike Wing",
+        "type": "toggle",
+        "img": "images/items/AtomicWhaleshipBikeWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "whaleshipbikewing"
+    },
+    {
+        "name": "Scabby Fish Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scabbyfishclue"
+    },
+    {
+        "name": "Pill Fish",
+        "type": "toggle",
+        "img": "images/items/PillFish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pillfish"
+    },
+    {
+        "name": "Bloated Eye Clam Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bloatedeyeclamclue"
+    },
+    {
+        "name": "Ibexii Red Dye",
+        "type": "toggle",
+        "img": "images/items/IbexiiRedPalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ibexiireddye"
+    },
+    {
+        "name": "Merchant Badge",
+        "type": "consumable",
+        "img": "images/items/MerchantBadge.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "merchantbadge"
+    },
+    {
+        "name": "Redsee Map",
+        "type": "toggle",
+        "img": "images/items/WesternDuneMap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "redseemap"
+    },
+    {
+        "name": "Hicaric Ring Bike Front",
+        "type": "toggle",
+        "img": "images/items/MonumentalRingBikeFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hicaricringbikefront"
+    },
+    {
+        "name": "Ghost Soul",
+        "type": "toggle",
+        "img": "images/items/GhostSoul.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ghostsoul"
+    },
+    {
+        "name": "Light Koi",
+        "type": "toggle",
+        "img": "images/items/LightKoi.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightkoi"
+    },
+    {
+        "name": "Machinist Badge",
+        "type": "consumable",
+        "img": "images/items/MachinistBadge.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "machinistbadge"
+    },
+    {
+        "name": "Giraffe Bike Booster",
+        "type": "toggle",
+        "img": "images/items/GiraffeBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "giraffebikebooster"
+    },
+    {
+        "name": "Beetle Badge",
+        "type": "consumable",
+        "img": "images/items/BeetleBadge.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "beetlebadge"
+    },
+    {
+        "name": "Bouldering Top",
+        "type": "toggle",
+        "img": "images/items/ClimbingSetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boulderingtop"
+    },
+    {
+        "name": "Eccrine Green Dye",
+        "type": "toggle",
+        "img": "images/items/EccrineGreenPalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eccrinegreendye"
+    },
+    {
+        "name": "Speedster Bike Front",
+        "type": "toggle",
+        "img": "images/items/SpeedsterBikeFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "speedsterbikefront"
+    },
+    {
+        "name": "Hakoa Map",
+        "type": "toggle",
+        "img": "images/items/BlackDesertMap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hakoamap"
+    },
+    {
+        "name": "Cartographer Bike Wings",
+        "type": "toggle",
+        "img": "images/items/CartoBikeWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cartographerbikewings"
+    },
+    {
+        "name": "Ibexii Glider Trousers",
+        "type": "toggle",
+        "img": "images/items/IbexiiSetTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ibexiiglidertrousers"
+    },
+    {
+        "name": "Scrapper's Badge",
+        "type": "consumable",
+        "img": "images/items/ScrappersBadge.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "scrappersbadge"
+    },
+    {
+        "name": "Trickster Atomic Rod",
+        "type": "toggle",
+        "img": "images/items/TricksterAtomicRod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tricksteratomicrod"
+    },
+    {
+        "name": "Badlands Map",
+        "type": "toggle",
+        "img": "images/items/BadlandsMap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "badlandsmap"
+    },
+    {
+        "name": "Scrapper Mask",
+        "type": "toggle",
+        "img": "images/items/ScrappersMask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scrappermask"
+    },
+    {
+        "name": "Entertainer's Mask",
+        "type": "toggle",
+        "img": "images/items/EntertainersMask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "entertainersmask"
+    },
+    {
+        "name": "Eccrine Top",
+        "type": "toggle",
+        "img": "images/items/EccrianSetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eccrinetop"
+    },
+    {
+        "name": "Eyries Top",
+        "type": "toggle",
+        "img": "images/items/FingerClanSetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eyriestop"
+    },
+    {
+        "name": "Pill Fish Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pillfishclue"
+    },
+    {
+        "name": "Sunsets Dye",
+        "type": "toggle",
+        "img": "images/items/SunsetsPalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sunsetsdye"
+    },
+    {
+        "name": "Stepwell Dragonfly",
+        "type": "toggle",
+        "img": "images/items/StepwellDragonfly.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stepwelldragonfly"
+    },
+    {
+        "name": "Lightning Crystal Bike Front",
+        "type": "toggle",
+        "img": "images/items/LightningCrystalBikeFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightningcrystalbikefront"
+    },
+    {
+        "name": "Wash Trousers",
+        "type": "toggle",
+        "img": "images/items/WhiteDesertSetTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "washtrousers"
+    },
+    {
+        "name": "Climbing Mask",
+        "type": "toggle",
+        "img": "images/items/ClimbingSetMask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "climbingmask"
+    },
+    {
+        "name": "Lightning Crystal Bike Booster",
+        "type": "toggle",
+        "img": "images/items/LightningCrystalBikeBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightningcrystalbikebooster"
+    },
+    {
+        "name": "Melancholy Mushroom",
+        "type": "toggle",
+        "img": "images/items/MelancholyMushroom.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "melancholymushroom"
+    },
+    {
+        "name": "Storm Fish Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stormfishclue"
+    },
+    {
+        "name": "Cartographer Bike Front",
+        "type": "toggle",
+        "img": "images/items/CartoBikeFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cartographerbikefront"
+    },
+    {
+        "name": "Atomic Priesthood Trousers",
+        "type": "toggle",
+        "img": "images/items/AtomicPriesthoodSetTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "atomicpriesthoodtrousers"
+    },
+    {
+        "name": "Angler Bike Engine",
+        "type": "toggle",
+        "img": "images/items/AnglerBikeBooster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anglerbikeengine"
+    },
+    {
+        "name": "Salt Butterfly",
+        "type": "toggle",
+        "img": "images/items/SaltButterfly.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "saltbutterfly"
+    },
+    {
+        "name": "Neon Flash Dye",
+        "type": "toggle",
+        "img": "images/items/NeonFlashPalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "neonflashdye"
+    },
+    {
+        "name": "Eyries Bike Wings",
+        "type": "toggle",
+        "img": "images/items/EyriesBikeWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eyriesbikewings"
+    },
+    {
+        "name": "Storm Fish",
+        "type": "toggle",
+        "img": "images/items/StormFish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stormfish"
+    },
+    {
+        "name": "Angler Top",
+        "type": "toggle",
+        "img": "images/items/FishingSetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anglertop"
+    },
+    {
+        "name": "Eccrine Trousers",
+        "type": "toggle",
+        "img": "images/items/EccrianSetTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eccrinetrousers"
+    },
+    {
+        "name": "Hakoan Glowworms",
+        "type": "toggle",
+        "img": "images/items/Glowworm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hakoanglowworms"
+    },
+    {
+        "name": "SUSPECT: Machinist Hamza",
+        "type": "toggle",
+        "img": "images/items/AtomicHeartSuspectHamza.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "suspect:machinisthamza"
+    },
+    {
+        "name": "Dopey Dart Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dopeydartclue"
+    },
+    {
+        "name": "Beetle Bike Wings",
+        "type": "toggle",
+        "img": "images/items/BeetleWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beetlebikewings"
+    },
+    {
+        "name": "Scrapper Bike Front",
+        "type": "toggle",
+        "img": "images/items/ScrapperBikeFront.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scrapperbikefront"
+    },
+    {
+        "name": "Shy Rijwur Pulp",
+        "type": "toggle",
+        "img": "images/items/ShyRijwurPulp.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shyrijwurpulp"
+    },
+    {
+        "name": "Larval Husk Package",
+        "type": "toggle",
+        "img": "images/items/LarvalHuskPackage.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "larvalhuskpackage"
+    },
+    {
+        "name": "Dopey Dart",
+        "type": "toggle",
+        "img": "images/items/DopeyDart.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dopeydart"
+    },
+    {
+        "name": "Merchant's Mask",
+        "type": "toggle",
+        "img": "images/items/MerchantsMask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "merchantsmask"
+    },
+    {
+        "name": "Butterfly Trousers",
+        "type": "toggle",
+        "img": "images/items/DragonFlySetTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "butterflytrousers"
+    },
+    {
+        "name": "Fallow Pomegranate",
+        "type": "toggle",
+        "img": "images/items/FallowPomegranate.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fallowpomegranate"
+    },
+    {
+        "name": "Sand Surfer Shorts",
+        "type": "toggle",
+        "img": "images/items/SurferSetTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sandsurfershorts"
+    },
+    {
+        "name": "Wind Chime Dye",
+        "type": "toggle",
+        "img": "images/items/WindChimePalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "windchimedye"
+    },
+    {
+        "name": "Dusty Monument Dye",
+        "type": "toggle",
+        "img": "images/items/DustyMonumentPalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dustymonumentdye"
+    },
+    {
+        "name": "Nimoor Butterflies",
+        "type": "toggle",
+        "img": "images/items/NimoorButterflies.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nimoorbutterflies"
+    },
+    {
+        "name": "The Wash Map",
+        "type": "toggle",
+        "img": "images/items/WhiteDesertMap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thewashmap"
+    },
+    {
+        "name": "Nomadic Bike Wing",
+        "type": "toggle",
+        "img": "images/items/NomadicWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nomadicbikewing"
+    },
+    {
+        "name": "Dusk Firefly",
+        "type": "toggle",
+        "img": "images/items/DuskFirefly.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "duskfirefly"
+    },
+    {
+        "name": "Slicer Beetle Poo",
+        "type": "toggle",
+        "img": "images/items/SlicerBeetlePoo.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "slicerbeetlepoo"
+    },
+    {
+        "name": "Angler Mask",
+        "type": "toggle",
+        "img": "images/items/FishingSetMask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anglermask"
+    },
+    {
+        "name": "Angler Bottoms",
+        "type": "toggle",
+        "img": "images/items/FishingSetTrousers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anglerbottoms"
+    },
+    {
+        "name": "CLUE: Empty Socket",
+        "type": "toggle",
+        "img": "images/items/AtomicHeartEmptySocket.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "clue:emptysocket"
+    },
+    {
+        "name": "Hummer",
+        "type": "toggle",
+        "img": "images/items/Hummer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hummer"
+    },
+    {
+        "name": "Bellow Guppy Clue",
+        "type": "toggle",
+        "img": "images/items/FishClue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bellowguppyclue"
+    },
+    {
+        "name": "Gliding Bike Wings",
+        "type": "toggle",
+        "img": "images/items/GlidingBikeWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glidingbikewings"
+    },
+    {
+        "name": "Ibexii Glider Top",
+        "type": "toggle",
+        "img": "images/items/IbexiiSetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ibexiiglidertop"
+    },
+    {
+        "name": "Chum Top",
+        "type": "toggle",
+        "img": "images/items/ChumTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chumtop"
+    },
+    {
+        "name": "Shade Top",
+        "type": "toggle",
+        "img": "images/items/ShadeSetTop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shadetop"
+    },
+    {
+        "name": "Giraffe Bike Wings",
+        "type": "toggle",
+        "img": "images/items/GiraffeWings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "giraffebikewings"
+    },
+    {
+        "name": "Azure Dye",
+        "type": "toggle",
+        "img": "images/items/AzurePalette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "azuredye"
+    },
+    {
+        "name": "SUSPECT: Climber Garay",
+        "type": "toggle",
+        "img": "images/items/AtomicHeartSuspectGaray.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "suspect:climbergaray"
+    },
+    {
+        "name": "Prickly Pear",
+        "type": "toggle",
+        "img": "images/items/PricklyPear.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pricklypear"
+    },
+    {
+        "name": "Trifle Jelly",
+        "type": "toggle",
+        "img": "images/items/TrifleJelly.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "triflejelly"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]

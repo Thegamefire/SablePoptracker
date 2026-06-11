@@ -1,0 +1,175 @@
+[
+    {
+        "name": "Ewer",
+        "chest_unopened_img": "/images/items/icon.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Yellow Elephant Beetle",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Yellow Elephant Beetle",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 4119,
+                        "y": 2784,
+                        "size": 34,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Sunshine Butterfly",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sunshine Butterfly",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 4142,
+                        "y": 2896,
+                        "size": 34,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Sizo",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Gliding Bike Booster",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gliding Bike Front",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gliding Bike Dye",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Machinist Badge (Ewer)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 4020,
+                        "y": 2863,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Ibexii Red Dye",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ibexii Red Dye",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3962,
+                        "y": 2871,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Jadi",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ibexii Glider Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ibexii Glider Trousers",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 4002,
+                        "y": 2893,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Temple of Rohana",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ibexii Mask",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3942,
+                        "y": 2693,
+                        "size": 34,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

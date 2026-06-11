@@ -1,0 +1,79 @@
+﻿{
+  "received_masks_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "h_alignment": "left",
+            "item_h_alignment": "center",
+            "item_v_alignment": "center",
+            "item_height": 38,
+            "item_width": 38,
+            "rows": [
+              [
+                "anglermask",
+                "cartographersmask",
+                "climbingmask",
+                "entertainersmask",
+                "guardsmask",
+                "herculesbeetlemask",
+                "machinistsmask",
+                "merchantsmask",
+                "scrappermask",
+                "chummask",
+                "ibexiimask",
+                "sandwyrmmask",
+                "shadeofeccriamask",
+                "whaleshipmask"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "received_badges_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "h_alignment": "left",
+            "item_h_alignment": "center",
+            "item_v_alignment": "center",
+            "item_height": 38,
+            "item_width": 38,
+            "rows": [
+              [
+                "anglerbadge",
+                "cartographersbadge",
+                "climbingbadge",
+                "entertainersbadge",
+                "guardsbadge",
+                "beetlebadge",
+                "machinistbadge",
+                "merchantbadge",
+                "scrappersbadge"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

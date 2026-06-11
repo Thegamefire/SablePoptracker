@@ -1,0 +1,69 @@
+﻿{
+  "received_clothes_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "h_alignment": "left",
+            "item_h_alignment": "center",
+            "item_v_alignment": "center",
+            "item_height": 36,
+            "item_width": 36,
+            "rows": [
+              [
+                "anglertop",
+                "atomicpriesthoodtorso",
+                "beetlestationtop",
+                "bikertop",
+                "boulderingtop",
+                "butterflytop",
+                "chumtop",
+                "eccrineguardtop",
+                "eccrinetop",
+                "eyriestop",
+                "hakoantop",
+                "ibexiiglidertop",
+                "machinisttop",
+                "monumentalstonetop",
+                "sandsurfertop",
+                "scrappertop",
+                "shadetop",
+                "washtop",
+                "whaleshiptop"
+              ],
+              [
+                "anglerbottoms",
+                "atomicpriesthoodtrousers",
+                "beetlestationtrousers",
+                "bikerstrousers",
+                "boulderingtrousers",
+                "butterflytrousers",
+                "chumskirt",
+                "eccrineguardtrousers",
+                "eccrinetrousers",
+                "eyriestrousers",
+                "hakoantrousers",
+                "ibexiiglidertrousers",
+                "machinisttrousers",
+                "monumentalstonebottoms",
+                "sandsurfershorts",
+                "scrapperbottoms",
+                "shadetrousers",
+                "washtrousers",
+                "whaleshiptrousers"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

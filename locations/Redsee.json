@@ -1,0 +1,932 @@
+[
+    {
+        "name": "Redsee",
+        "chest_unopened_img": "/images/items/icon.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Cartographer Talon",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Redsee Map",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cartographer Bike Front",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cartographers Badge (Redsee)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1684,
+                        "y": 2037,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hicaric Ring (Redsee)",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hicaric Ring (Redsee)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1097,
+                        "y": 2396,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "The Atomic Heart",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Atomic Heart Keycard",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Broken Atomic Heart Powercore",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Repaired Atomic Heart Powercore",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "CLUE - Promissory Note",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "CLUE - Empty Socket",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "CLUE - Large Feathers",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "CLUE - Smashed Glass",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Atomic Shell Dye",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 911,
+                        "y": 1323,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Thieving Magpie Well",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Magpie Key",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Eccrine Guard Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Eccrine Guard Trousers",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 812,
+                        "y": 2178,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Oasis Dragonfly",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Oasis Dragonfly",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1041,
+                        "y": 1907,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Shaded Leaf Butterfly",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Shaded Leaf Butterfly",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1714,
+                        "y": 2029,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Stepwell Dragonfly",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Stepwell Dragonfly",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 798,
+                        "y": 2188,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Sucker Fish",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sucker Fish",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1550,
+                        "y": 2516,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Storm Fish",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Storm Fish",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 810,
+                        "y": 2097,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Sand Ray",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sand Ray",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1496,
+                        "y": 2035,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hummer",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hummer",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1861,
+                        "y": 1977,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Eccria",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "SUSPECT - Climber Garay",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "SUSPECT - Machinist Hamza",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "SUSPECT - Merchant Iria",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wind Chime Dye",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 994,
+                        "y": 1992,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "The Whale",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Whale Ship Bike Engine",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Whale Ship Bike Front",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Whale Ship Bike Wing",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Atomic Core Dye",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Whale Ship Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Whale Ship Trousers",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Whale Ship Mask",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1014,
+                        "y": 3022,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Bike Merchant Avid",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery Bike Engine",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Delivery Bike Front",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Delivery Bike Wings",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Giraffe Bike Booster",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Giraffe Bike Front",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Giraffe Bike Wings",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Salt Bike Engine",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Salt Bike Front",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Salt Bike Wings",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Speedster Bike Engine",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Speedster Bike Front",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Speedster Bike Wing",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Eccrine Green Dye",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Biker Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bikers Trousers",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1071,
+                        "y": 2045,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Stranger in the Wall",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Shade Bike Booster",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shade Bike Front",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shade Bike Wings",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shade Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shade Trousers",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1031,
+                        "y": 2028,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Dusty Monument Dye",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Dusty Monument Dye",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1097,
+                        "y": 2374,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Atomic Priesthood Trousers",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Atomic Priesthood Trousers",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1884,
+                        "y": 2050,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fabric Seller Kalia",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Beetle Station Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beetle Station Trousers",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Eccrine Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Eccrine Trousers",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Scrapper Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Scrapper Bottoms",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1066,
+                        "y": 1997,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Monumental Stone Top",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Monumental Stone Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1721,
+                        "y": 2056,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Merchant Habat",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sand Surfer Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sand Surfer Shorts",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 723,
+                        "y": 1868,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Sometimes A Well Is Just A Well",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Climbing Badge (Redsee)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 825,
+                        "y": 2196,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Oasis Flower",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Oasis Flower",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Entertainers Badge (Redsee) 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1021,
+                        "y": 1942,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Glide and Seek",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Entertainers Badge (Redsee) 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1013,
+                        "y": 2016,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hearbreak in the City",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Guards Badge (Redsee)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1066,
+                        "y": 2022,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Merchant Iria",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Merchant Badge (Redsee) 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Merchant Badge (Redsee) 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Merchant Badge (Redsee) 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1029,
+                        "y": 1995,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Shade of Eccria Mask",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Shade of Eccria Mask",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1015,
+                        "y": 1922,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Serai Merchant Josh",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fallow Pomegranate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Narrow Stalk Fig",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Melancholy Mushroom",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shy Rijwur Pulp",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": {
+                    "map": "Midden",
+                    "x": 1035,
+                    "y": 2049,
+                    "size": 36,
+                    "shape": "rect"
+                }
+            }
+        ]
+    }
+]

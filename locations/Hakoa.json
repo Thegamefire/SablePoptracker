@@ -1,0 +1,325 @@
+[
+    {
+        "name": "Hakoa",
+        "chest_unopened_img": "/images/items/icon.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Cartographer Charifa",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hakoa Map",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cartographer Bike Engine",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cartographers Badge (Hakoa)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1483,
+                        "y": 4345,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hicaric Ring (Hakoa)",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hicaric Ring (Hakoa)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1227,
+                        "y": 4600,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Crystal Butterfly",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crystal Butterfly",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1153,
+                        "y": 3762,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hakoan Glowworms",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hakoan Glowworms",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 2009,
+                        "y": 5188,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Teacup Angler",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Teacup Angler",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 637,
+                        "y": 4579,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Machinist Zahra",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lightning Crystal Bike Booster",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lightning Crystal Bike Front",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lightning Crystal Bike Wings",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Machinist Badge (Hakoa)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1123,
+                        "y": 3736,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hakoan Merchant Caimin",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hakoan Black Dye",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hakoan Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hakoan Trousers",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 689,
+                        "y": 5062,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Innkeper Afii",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Beetle Badge (Hakoa)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1152,
+                        "y": 3730,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Guard Eliisabet",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Guards Badge (Hakoa)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 1147,
+                        "y": 3703,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Slicer Beetle Poo",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Slicer Beetle Poo",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": {
+                    "map": "Midden",
+                    "x": 1784,
+                    "y": 4379,
+                    "size": 36,
+                    "shape": "rect"
+                }
+            },
+            {
+                "name": "Glowing Mushrooms",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Glowing Mushrooms",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": {
+                    "map": "Midden",
+                    "x": 2032,
+                    "y": 5160,
+                    "size": 36,
+                    "shape": "rect"
+                }
+            },
+            {
+                "name": "Lightning Crystal",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lightning Crystal",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": {
+                    "map": "Midden",
+                    "x": 697,
+                    "y": 5238,
+                    "size": 36,
+                    "shape": "rect"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,169 @@
+[
+    {
+        "name": "Sodic Waste",
+        "chest_unopened_img": "/images/items/icon.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Cartographer Iliud",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sodic Waste Map",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cartographers Badge (Sodic Waste)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3994,
+                        "y": 1435,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hicaric Ring (Sodic Waste)",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hicaric Ring (Sodic Waste)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 4632,
+                        "y": 2072,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Salt Butterfly",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Salt Butterfly",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 4685,
+                        "y": 1672,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Shelled Cup",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Shelled Cup",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 4604,
+                        "y": 1852,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Geyser Tower",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Neon Flash Dye",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Climbing Badge (Sodic Waste)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pink Neck Eggs",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 4642,
+                        "y": 1745,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Entertainers Badge (Sodic Waste)",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Entertainers Badge (Sodic Waste)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 4170,
+                        "y": 1319,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

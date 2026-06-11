@@ -1,0 +1,16 @@
+{
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Midden",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Midden"
+                    ]
+                }
+            }
+        ]
+    }
+}

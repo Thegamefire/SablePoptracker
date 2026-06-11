@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Any Region",
+        "chest_unopened_img": "/images/items/icon.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Scrap Metal",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Scrap Metal",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Midden",
+                        "x": 3409,
+                        "y": 2210,
+                        "size": 36,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

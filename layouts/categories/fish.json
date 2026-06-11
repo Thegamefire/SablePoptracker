@@ -1,0 +1,67 @@
+﻿{
+  "received_fish_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "h_alignment": "left",
+            "item_h_alignment": "center",
+            "item_v_alignment": "center",
+            "item_height": 36,
+            "item_width": 36,
+            "rows": [
+              [
+                "basicwoodenrod",
+                "bellowguppy",
+                "bloatedeyeclam",
+                "dopeydart",
+                "flutterthrust",
+                "ghostsoul",
+                "hummer",
+                "lightkoi",
+                "littlekicker",
+                "pebbleeye",
+                "pillfish",
+                "sandray",
+                "scabbyfish",
+                "shelledcup",
+                "stormfish",
+                "suckerfish",
+                "teacupangler",
+                "triflejelly"
+              ],
+              [
+                "tricksteratomicrod",
+                "bellowguppyclue",
+                "bloatedeyeclamclue",
+                "dopeydartclue",
+                "flutterthrustclue",
+                "ghostsoulclue",
+                "hummerclue",
+                "lightkoiclue",
+                "littlekickerclue",
+                "pebbleeyeclue",
+                "pillfishclue",
+                "sandrayclue",
+                "scabbyfishclue",
+                "shelledcupclue",
+                "stormfishclue",
+                "suckerfishclue",
+                "teacupanglerclue",
+                "triflejellyclue"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
